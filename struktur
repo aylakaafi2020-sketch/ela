@@ -1,0 +1,26 @@
+struktur pengerjaan file :
+ 1.koneksi.php 
+2.login.php
+3.cek_login.php
+4.index.php
+5.header.php
+6.menu.php
+7.buku.php
+8.tambah_buku.php
+9.simpan_tambah_buku.php
+10.hapus_buku.php
+11.edit_buku.php
+12.simpan_edit_buku.php
+13.transaksi.php
+14.tambah_transaksi.php
+15.simpan_tambah_transaksi.php
+16.edit_transaksi.php
+17.simpan_edit.php
+18.hapus_transaksi.php
+19.user.php
+20.header_user.php
+21.menu_user.php
+31.register.php
+32.cek_register.php
+33.kembali.php
+34.pengembalian.php
